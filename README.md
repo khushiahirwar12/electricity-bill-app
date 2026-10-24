@@ -1,5 +1,5 @@
 # ⚡ State Power Corporation - Electricity Billing Portal.
---
+
 A desktop GUI billing software built using **Java Swing** and **AWT**. It simulates real-world utility billing with slab rates, fixed charges, regulatory duties, live consumption calculation, and PDF/Print invoice generation.
 
 ---
